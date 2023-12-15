@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BottomNavigationBarGit</string>
+    <string name="page_1">page 1</string>
+    <string name="page_2">page 2</string>
+    <string name="page_3">page 3</string>
+    <string name="page_4">page 4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
